@@ -12,7 +12,10 @@ h1 {
     color: #A52A2A;
    
 }
-
+img {
+    max-width:700px;
+    height: auto;
+}
 h2 {
  
    
